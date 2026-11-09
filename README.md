@@ -22,7 +22,12 @@ Most of what I build is for clients or internal operations, so it lives in priva
 
 ## Writing
 
-**Teaching machines to do real work**: a series on post-training data, exercises, graders and evaluation for knowledge-work agents.
+**[Teaching machines to do real work](https://www.motifplatforms.com/insights)**: a four-part series on post-training data, exercises, graders and evaluation for knowledge-work agents.
+
+1. [Reward hacking explained: how one bad grader teaches AI a thousand bad lessons](https://www.motifplatforms.com/insights/reward-hacking-explained-one-bad-grader)
+2. [How to design training exercises for AI agents](https://www.motifplatforms.com/insights/how-to-design-training-exercises-for-ai-agents)
+3. [Ten ways a grader lies in AI post-training: rubrics, answer keys and judges](https://www.motifplatforms.com/insights/ten-ways-an-ai-grader-lies)
+4. [The correct-looking file: why AI agents fail and what experts offer](https://www.motifplatforms.com/insights/why-ai-agents-fail-at-spreadsheets-decks-documents)
 
 ## Public code
 
