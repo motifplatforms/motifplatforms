@@ -2,7 +2,7 @@
 
 Founder and Chief Growth Officer at **[Motif Platforms](https://www.motifplatforms.com)**. I take AI work from the strategy deck all the way to production systems, and I write most of the code myself.
 
-Most of what I build is for clients or internal operations, so it lives in private repos. The green squares above are real work. This page explains what that work is without exposing anything confidential.
+Most of what I build is for clients or internal operations, so it lives in private repos. The green squares below are real work. This page explains what that work is without exposing anything confidential.
 
 ## What I'm building
 
